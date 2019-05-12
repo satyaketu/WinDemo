@@ -1,0 +1,10 @@
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\bin\Debug\Win_Demo.exe.config
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\bin\Debug\Win_Demo.exe
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\bin\Debug\Win_Demo.pdb
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.csprojAssemblyReference.cache
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.Form1.resources
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.Properties.Resources.resources
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.csproj.GenerateResource.cache
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.exe
+C:\Users\Satya\source\repos\Win_Demo\Win_Demo\obj\Debug\Win_Demo.pdb
